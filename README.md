@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/capinit/SpaceGame/_apis/build/status/KahNv2.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/capinit/SpaceGame/_build/latest?definitionId=10&branchName=master)
 
 # Contributing
 
